@@ -1,0 +1,7 @@
+com/example/bestioles/repository/AnimalRepository.class
+com/example/bestioles/model/Species.class
+com/example/bestioles/model/Person.class
+com/example/bestioles/repository/SpeciesRepository.class
+com/example/bestioles/repository/PersonRepository.class
+com/example/bestioles/model/Animal.class
+com/example/bestioles/app/BestiolesApplication.class
