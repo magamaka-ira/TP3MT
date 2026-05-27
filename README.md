@@ -92,3 +92,8 @@ Nombre de personnes: 3
 ✅ Hibernate DDL - validate (ne modifie pas la BDD)
 
 **TP03 Complet!** 🎉
+
+## Mon test 
+
+<img width="786" height="182" alt="Screenshot 2026-05-27 at 02 05 45" src="https://github.com/user-attachments/assets/289e10c0-d535-4582-bcde-7eb7f6df5880" />
+
